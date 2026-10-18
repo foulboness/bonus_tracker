@@ -2,7 +2,7 @@
 
 A production-grade online casino welcome bonus tracker, rollover calculation engine, and verified regulatory terms extraction platform.
 
-Built with a **Python Scraper (Requests + BeautifulSoup)**, **Anthropic Claude API (Claude 3.5 Sonnet)** for regulatory bonus terms extraction, a **Noir Casino Luxury frontend (React + Tailwind CSS)**, and automated validation for static deployment on **Vercel** or **GitHub Pages**.
+Built with a **Python Scraper (Requests + BeautifulSoup)**, **Anthropic Claude API (Claude 3.5 Sonnet)**, **Google Studio** for regulatory bonus terms extraction, a **Noir Casino Luxury frontend (React + Tailwind CSS)**, and automated validation for static deployment on **Vercel** or **GitHub Pages**.
 
 ---
 
