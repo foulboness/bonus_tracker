@@ -1,0 +1,11 @@
+{
+  "lastScraped": "2026-10-14T18:34:40.178Z",
+  "sourceUrl": "https://www.casino.org/bonuses/",
+  "sourceName": "Casino.org (Public Promotions Index)",
+  "totalCasinos": 3,
+  "robotsChecked": true,
+  "robotsAllowed": true,
+  "complianceNote": "Path /bonuses/ verified allowed per https://www.casino.org/robots.txt robots.txt policy.",
+  "executionTimeMs": 3134,
+  "aiModelUsed": "gemini-3.8-flash"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "BONUS//TRACKER",
+  "description": "Noir Casino Luxury bonus tracker featuring verified public source scraping, Claude-powered terms extraction, rollover calculator, and responsible gambling intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

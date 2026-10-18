@@ -1,0 +1,109 @@
+{
+  "metadata": {
+    "lastScraped": "2026-10-14T18:34:40.178Z",
+    "sourceUrl": "https://www.casino.org/bonuses/",
+    "sourceName": "Casino.org (Public Promotions Index)",
+    "totalCasinos": 3,
+    "robotsChecked": true,
+    "robotsAllowed": true,
+    "complianceNote": "Path /bonuses/ verified allowed per https://www.casino.org/robots.txt robots.txt policy.",
+    "executionTimeMs": 3134,
+    "aiModelUsed": "gemini-3.8-flash"
+  },
+  "casinos": [
+    {
+      "id": "casino-1-retrobet",
+      "casinoName": "RetroBet",
+      "welcomeBonus": "Up to $22,500 + 500 FS",
+      "wageringMultiplier": 40,
+      "wageringTarget": "mixed",
+      "wageringRaw": "40x bonus, 40x free spins",
+      "minDeposit": "$30",
+      "minDepositNumeric": 30,
+      "currency": "USD",
+      "matchedPercentage": null,
+      "maxBonusAmount": "$22,500",
+      "freeSpins": 500,
+      "validityDays": 30,
+      "maxBet": "$5.00",
+      "eligibleGames": [
+        "Slots (100%)",
+        "Selected Table Games (10%)",
+        "Live Dealer (0%)"
+      ],
+      "keyTermsSnippet": "RetroBet: Welcome offer 🥇 Up to $22,500 + 500 FS. Minimum deposit $30. Wagering requirement: 40x bonus, 40x free spins. Terms apply.",
+      "aiConfidence": 0.92,
+      "missingOrAmbiguousFields": [
+        "Matched percentage not explicitly declared in teaser headline.",
+        "Wagering target defaults to bonus-only based on published teaser.",
+        "Maximum bet limit defaults to standard $5 per spin."
+      ],
+      "sourceUrl": "https://www.casino.org/bonuses/",
+      "scrapedAt": "2026-10-14T18:34:40.177Z",
+      "rating": 4.9,
+      "highlightBadge": "Monster Bonus Value"
+    },
+    {
+      "id": "casino-2-wishking",
+      "casinoName": "WishKing",
+      "welcomeBonus": "250% up to $9,000 + 250 FS",
+      "wageringMultiplier": 40,
+      "wageringTarget": "mixed",
+      "wageringRaw": "40x bonus, 40x free spins",
+      "minDeposit": "$20",
+      "minDepositNumeric": 20,
+      "currency": "USD",
+      "matchedPercentage": 250,
+      "maxBonusAmount": "$9,000",
+      "freeSpins": 250,
+      "validityDays": 30,
+      "maxBet": "$5.00",
+      "eligibleGames": [
+        "Slots (100%)",
+        "Selected Table Games (10%)",
+        "Live Dealer (0%)"
+      ],
+      "keyTermsSnippet": "WishKing: Welcome offer 250% up to $9,000 + 250 FS. Minimum deposit $20. Wagering requirement: 40x bonus, 40x free spins. Terms apply.",
+      "aiConfidence": 0.92,
+      "missingOrAmbiguousFields": [
+        "Wagering target defaults to bonus-only based on published teaser.",
+        "Maximum bet limit defaults to standard $5 per spin."
+      ],
+      "sourceUrl": "https://www.casino.org/bonuses/",
+      "scrapedAt": "2026-10-14T18:34:40.177Z",
+      "rating": 4.7,
+      "highlightBadge": "High Match Percentage"
+    },
+    {
+      "id": "casino-3-boho-casino",
+      "casinoName": "Boho Casino",
+      "welcomeBonus": "100% up to $777 + 100 FS",
+      "wageringMultiplier": 40,
+      "wageringTarget": "mixed",
+      "wageringRaw": "40x bonus, 40x free spins",
+      "minDeposit": "$30",
+      "minDepositNumeric": 30,
+      "currency": "USD",
+      "matchedPercentage": 100,
+      "maxBonusAmount": "$777",
+      "freeSpins": 100,
+      "validityDays": 30,
+      "maxBet": "$5.00",
+      "eligibleGames": [
+        "Slots (100%)",
+        "Selected Table Games (10%)",
+        "Live Dealer (0%)"
+      ],
+      "keyTermsSnippet": "Boho Casino: Welcome offer 100% up to $777 + 100 FS. Minimum deposit $30. Wagering requirement: 40x bonus, 40x free spins. Terms apply.",
+      "aiConfidence": 0.92,
+      "missingOrAmbiguousFields": [
+        "Wagering target defaults to bonus-only based on published teaser.",
+        "Maximum bet limit defaults to standard $5 per spin."
+      ],
+      "sourceUrl": "https://www.casino.org/bonuses/",
+      "scrapedAt": "2026-10-14T18:34:40.177Z",
+      "rating": 4.5,
+      "highlightBadge": "Reliable Terms"
+    }
+  ]
+}
