@@ -1,4 +1,4 @@
-# BONUS//TRACKER — Noir Casino Luxury Bonus Intelligence
+# BONUS//TRACKER 
 
 A production-grade online casino welcome bonus tracker, rollover calculation engine, and verified regulatory terms extraction platform.
 
