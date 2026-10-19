@@ -203,13 +203,3 @@ jobs:
 ```
 
 Whenever the GitHub Action commits the updated `bonuses.json`, Vercel automatically redeploys the fresh data!
-
----
-
-## 6. Responsible Gambling & Regulatory Compliance
-
-- Strictly 21+ in permitted US jurisdictions (CT, MI, NJ, PA, WV).
-- If you or someone you know has a gambling problem, help is available 24/7:
-  - **1-800-GAMBLER** (1-800-426-2537)
-  - **BeGambleAware.org**
-  - **National Council on Problem Gambling (NCPG)**: [ncpgambling.org](https://www.ncpgambling.org)
