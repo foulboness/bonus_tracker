@@ -42,7 +42,7 @@ Built with a **Python Scraper (Requests + BeautifulSoup)**, **Anthropic Claude A
 
 ---
 
-## 2. Beginner Setup Guide (Windows 11 & VS Code)
+## 2. Setup Guide (Windows 11 & VS Code)
 
 ### Prerequisites on Windows 11:
 1. **Python 3.10+**: Download from [python.org](https://www.python.org/downloads/). During installation, **check the box "Add Python to PATH"**.
