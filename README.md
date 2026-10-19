@@ -206,17 +206,6 @@ Whenever the GitHub Action commits the updated `bonuses.json`, Vercel automatica
 
 ---
 
-## 5. Noir Casino Luxury Design System
-
-- **Obsidian**: `#111110` (Background canvas)
-- **Charcoal**: `#1C1B1A` (Structural cards and surfaces)
-- **Ivory**: `#F2EEE6` (Typography and headers)
-- **Burgundy**: `#783B45` (Action buttons and warning highlights)
-- **Champagne**: `#B5A17D` (Hairline accents, badges, and monetary callouts)
-- **Typography**: Cormorant Garamond (Editorial Serif) paired with Plus Jakarta Sans and Space Mono (Tabular Numerals).
-
----
-
 ## 6. Responsible Gambling & Regulatory Compliance
 
 - Strictly 21+ in permitted US jurisdictions (CT, MI, NJ, PA, WV).
